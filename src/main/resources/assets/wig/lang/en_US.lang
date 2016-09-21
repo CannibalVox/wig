@@ -1,0 +1,8 @@
+key.wigpage.description=Activate %s Page
+key.wigpage.category=WIG Pages
+key.wigctrl.category=WIG Global Controls
+key.wigctrl.selectoption=Select Tool Option
+key.wigctrl.undo=Undo Operation
+key.wigctrl.redo=Redo Operation
+wigpage.terraform.name=Terraform
+wigtool.test.name=Test Tool
